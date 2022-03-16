@@ -16,10 +16,12 @@ and open the folder using unity.
 
 ## Screenshots
 
-<img src=".github/assets/1.png" alt="drawing" width="240"/>
-<img src=".github/assets/2.png" alt="drawing" width="240"/>
-<img src=".github/assets/3.png" alt="drawing" width="240"/>
-<img src=".github/assets/4.png" alt="drawing" width="240"/>
-<img src=".github/assets/5.png" alt="drawing" width="240"/>
-<img src=".github/assets/6.png" alt="drawing" width="240"/>
-<img src=".github/assets/7.png" alt="drawing" width="240"/>
+<p float="left">
+    <img src=".github/assets/1.png" alt="drawing" width="240"/>
+    <img src=".github/assets/2.png" alt="drawing" width="240"/>
+    <img src=".github/assets/3.png" alt="drawing" width="240"/>
+    <img src=".github/assets/4.png" alt="drawing" width="240"/>
+    <img src=".github/assets/5.png" alt="drawing" width="240"/>
+    <img src=".github/assets/6.png" alt="drawing" width="240"/>
+    <img src=".github/assets/7.png" alt="drawing" width="240"/>
+</p>
