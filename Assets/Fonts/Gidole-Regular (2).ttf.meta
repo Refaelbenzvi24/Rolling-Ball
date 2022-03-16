@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9dfd530138cda2b46942c4944a798861
+timeCreated: 1512924426
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gidole
+  fontNames:
+  - Gidole
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 603f4039e11a3f245a300ad84506245f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
